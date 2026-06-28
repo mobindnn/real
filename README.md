@@ -8,3 +8,4 @@ modric
 kroos
 di maria
 mbappe
+navas
