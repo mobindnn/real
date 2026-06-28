@@ -5,3 +5,4 @@ ramos
 CR7
 benzema
 modric
+kroos
